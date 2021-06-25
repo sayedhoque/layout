@@ -1,0 +1,173 @@
+.header{
+	background-color: red;
+	min-height: 80px;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: lime;
+}
+.contact{
+	float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: yellow;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	width: 33.33%;
+	min-height: 150px;
+	float: left;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.footer{
+	background-color: black;
+	min-height:80px;
+}
+.header1{
+	width: 50%;
+	background-color: blue;
+	min-height: 100px;
+	text-align: center;
+}
+.container1{
+	overflow: hidden;
+}
+.single1{
+	
+	min-height: 80px;
+	float: left;
+}
+.css{
+	width: 12%;
+	background-color: green;
+	text-align: center;
+}
+.js{
+	width: 12%;
+	background-color: yellow;
+    text-align: center;}
+.php{
+width: 12%;	
+	background-color: pink;
+	text-align: center;
+}
+.sql{
+	width: 14%;
+	background-color: lime;
+	text-align: center;
+}
+.footer1{
+	width: 50%;
+	min-height: 80px;
+	background-color: black;
+	
+}
+.header2{
+	min-height: 100px;
+	background-color: red;
+	text-align: center;
+}
+.cont{
+	overflow: hidden;
+}
+.two{
+	float: left;
+	width: 40%;
+	min-height: 80px;	
+	background-color: green;
+	text-align: center;
+}
+.three{
+	float: right;
+	width: 60%;
+	min-height: 80px;	
+	background-color: lime;
+	text-align: center;
+}
+.cont1{
+	overflow: hidden;
+}
+.four{
+	width: 70%;
+	min-height: 60px;
+	float: left;
+	
+	background-color: blue;
+	text-align: center;
+}
+.five{
+	float: right;
+	width: 30%;
+	min-height: 60px;
+	background-color: pink;
+	text-align: center;
+}
+.footer2{
+	background-color: gray;
+	min-height: 60px;
+	text-align: center;
+}
+.header_s{
+	min-height: 100px;
+	background-color: blue;
+	text-align: center;
+}
+.nav{
+	min-height: 100px;
+	background-color: pink;
+	text-align: center;
+}
+.cont2{
+	overflow: hidden;
+	text-align: center;	
+}
+.index{
+	width: 30%;
+	min-height: 150px;
+	background-color: red;
+	float: left;
+
+}
+.content{
+	width: 70%;
+	min-height: 150px;
+	background-color: green;
+	float: right;
+}
+.foot{
+	min-height: 80px;
+	background-color: white;
+	text-align: center;
+}
+#mainbody{
+	back-ground-url ("/images/new-bg.jpg") no-repeat center center fixed;
+}
+.navbar{
+	background-color: white;
+	border-bottom: 1px solid #c4c4c4;
+	margin-bottom: 10px;
+}
+
+a{
+	margin-left: 80px;
+	padding-right: 0px;
+}
+.navbar-brand{
+	margin-right: 0px !important;
+	float: right !important;
+}
